@@ -10,8 +10,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 
- 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
-  
+ 1.Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+  </br>
  2. As a business manager, try to find out the weak areas where you can work to make more profit.
   </br>
  3. What all business problems you can derive by exploring the data?
