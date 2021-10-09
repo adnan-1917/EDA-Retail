@@ -7,7 +7,8 @@ This repository contains the tasks that I completed while working as an intern f
 </br>
 3.Internship Type - Work from Home
 </br>
-Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
+
+# Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 
  1.Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
  </br>
